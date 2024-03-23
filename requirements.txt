@@ -9,3 +9,4 @@ feather-format==0.4.1
 seaborn==0.13.2
 matplotlib==3.7.5
 tqdm==4.66.2
+streamlit==1.32.2
